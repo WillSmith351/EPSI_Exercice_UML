@@ -1,9 +1,9 @@
-## Exercice Blog Information Automatique
-
 # Membres du groupe : 
 - William Smith
 - Charles de Feligonde
 - Sarah Khiter
+
+## Exercice Blog Information Automatique
 
 # Exercice 1 - 
 Lister les données : 
