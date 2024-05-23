@@ -1,0 +1,14 @@
+{
+    "name": "Exercice4_ORM",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "start": "node src/models/index.js"
+    },
+    "dependencies": {
+      "sequelize": "^6.6.2",
+      "sqlite3": "^5.0.2"
+    }
+  }
+  
